@@ -1,0 +1,4 @@
+hello i am vaishnavi kancharlaplli
+i am soo passionated to learn these things like read file using fs module by calling the methods like readfile
+and 
+read async methods
